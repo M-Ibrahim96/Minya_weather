@@ -1,0 +1,46 @@
+Time= 8:00,Degree= 11, at 05/01/2021
+
+Time= 9:00,Degree= 15, at 05/01/2021
+
+Time= 10:00,Degree= 17, at 05/01/2021
+
+Time= 10:00,Degree= 15, at 05/01/2021
+
+Time= 12:00,Degree= 21, at 05/01/2021
+
+Time= 18:00,Degree= 15, at 05/01/2021
+
+Time= 22:00,Degree= 11, at 05/01/2021
+
+Time= 0:00,Degree= 15, at 06/01/2021
+
+Time= 1:00,Degree= 14, at 06/01/2021
+
+Time= 2:00,Degree= 13, at 06/01/2021
+
+Time= 3:00,Degree= 13, at 06/01/2021
+
+Time= 4:00,Degree= 12, at 06/01/2021
+
+Time= 4:00,Degree= 9, at 06/01/2021
+
+Time= 7:00,Degree= 10, at 06/01/2021
+
+Time= 9:00,Degree= 15, at 06/01/2021
+
+Time= 10:00,Degree= 18, at 06/01/2021
+
+Time= 11:00,Degree= 18, at 06/01/2021
+
+Time= 12:00,Degree= 23, at 06/01/2021
+
+Time= 13:00,Degree= 25, at 06/01/2021
+
+Time= 14:00,Degree= 17, at 06/01/2021
+
+Time= 15:00,Degree= 21, at 06/01/2021
+
+Time= 16:00,Degree= 23, at 06/01/2021
+
+Time= 16:00,Degree= 23, at 06/01/2021
+
